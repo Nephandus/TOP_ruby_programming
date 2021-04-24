@@ -1,4 +1,4 @@
-def substrings (word, dictionary)
+def substrings(word, dictionary)
     match_list = []
     match_score = {}
     

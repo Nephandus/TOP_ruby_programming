@@ -1,4 +1,4 @@
-def stock_picker (array_of_days)
+def stock_picker(array_of_days)
     best_price = 0
     first_day_of_price = 0
     second_day_of_price = 0
