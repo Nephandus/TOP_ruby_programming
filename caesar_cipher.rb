@@ -28,6 +28,7 @@ def caesar_cipher(message, shift)
     coded_message.join
 end
 
+#Neither was an interface specified nor any exception catching expected, so the below was just for demonstration.
 string_to_cipher = ""
 shift_distance = 0
 puts "Enter string to cipher:"
